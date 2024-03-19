@@ -22,7 +22,7 @@ sum = num1 + num2;
 ```
 
 ### ¿Cómo se llama la información recibida del usuario?
-La información recibida del usuario es llamada `prompt(dato)` el cual solicta información del usuario, para despues almacenarlo y usarlo como una cadena de texto para su posterior proceso de codificación.
+La información recibida del usuario es llamada `prompt(dato)` el cual solicita información del usuario, para despues almacenarlo y usarlo como una cadena de texto para su posterior proceso de codificación.
 ```
 let nombre = prompt ('Nombre de usuario:');
 

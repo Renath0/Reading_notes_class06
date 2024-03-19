@@ -1,5 +1,5 @@
 # Reading_notes_class06
-## Sitio Web con HTML puro desde cero
+## Paginas web dinámicas con JavaScript
 
 ### ¿Qué son las variables en JavaScript?
 En JavaScript, las variables son contenedores que se utilizan para almacenar valores. Estos valores pueden ser números, cadenas de texto, booleanos, objetos, funciones u otros tipos de datos.
